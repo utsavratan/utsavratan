@@ -3,6 +3,8 @@
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Utsav Ratan<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+  <p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/4dbeb616-5521-42ee-b57a-0464f62bcff1">
 <Br>
 <h1>About Me! ❤</h1>
 
