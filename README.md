@@ -18,8 +18,7 @@
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/misterutsav/l" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:ratan.utsav1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ratan.utsav1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/utsavratan" target="blank"><img align="center" src="https://img.shields.io/badge/utsavratan-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-  
+</p>  
 <Br>
 <hr>
 <Br>
