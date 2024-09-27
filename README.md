@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4334f74b-3371-4b7d-b6eb-7de4ddad5df1" height="280" width="500"/>
+  <img src="https://github.com/user-attachments/assets/4334f74b-3371-4b7d-b6eb-7de4ddad5df1" height="280" width="600"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/utsavratan">Utsav Ratan<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
