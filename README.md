@@ -41,9 +41,18 @@
 
 ### 🌟 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsav-tech&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsav-tech&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utsavratan&show_icons=true&theme=radical" alt="Utsav Ratan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsavratan&theme=radical" alt="Utsav Ratan's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavratan&layout=compact&theme=radical" alt="Utsav Ratan's Top Languages" />
 </p>
 
 ---
