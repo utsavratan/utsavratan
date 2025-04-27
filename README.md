@@ -3,7 +3,11 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/struveryy">Utsav Ratan<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
   <p align="center">
-    <img width="350" src="https://github.com/user-attachments/assets/d5ab1025-a688-4615-a08a-05b5d55e68c9">
+  <img src="https://github.com/user-attachments/assets/d5ab1025-a688-4615-a08a-05b5d55e68c9" 
+       alt="Utsav Ratan" 
+       width="200" height="200"
+       style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 20px #00f0ff;">
+</p>
 <Br>
 <h1>About Me ❤</h1>
 
