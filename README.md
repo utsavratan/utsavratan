@@ -14,7 +14,7 @@
 <p align="center">
   🌸 B.Tech CSE Student at <strong>KR Mangalam University</strong> <br/>
   💻 Passionate about Web Development, Problem Solving & Tech <br/>
-  🌈 Always learning and exploring something new <br/>
+  ❤️ Always learning and exploring something new <br/>
 </p>
 
 ---
