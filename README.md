@@ -18,8 +18,6 @@
 </p>
 
 ---
-
-### 🌼 About Me
 - 🎓 I'm currently pursuing **B.Tech in Computer Science**
 - 👩‍💻 I love building creative, user-friendly web projects
 - 🌱 Currently learning **React.js** and diving deeper into **DSA**
@@ -42,8 +40,6 @@
 ---
 
 ### 🌟 GitHub Stats
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utsavratan&show_icons=true&theme=radical" alt="Utsav Ratan's GitHub Stats" />
