@@ -11,18 +11,93 @@
 <Br>
 <h1>About Me ❤</h1>
 
-<p align="center">
-  🌸 B.Tech CSE Student at <strong>KR Mangalam University</strong> <br/>
-  💻 Passionate about Web Development, Problem Solving & Tech <br/>
-  ❤️ Always learning and exploring something new <br/>
-</p>
+<table>
+  <tr>
+    <td><strong>🧑🏻‍💻 Name</strong></td>
+    <td>Utsav Ratan</td>
+  </tr>
+  <tr>
+    <td><strong>🌍 Location</strong></td>
+    <td>New Delhi , India</td>
+  </tr>
+  <tr>
+    <td><strong>🎯 Interests</strong></td>
+    <td>Web Dev, Automation, Startups, Gaming, UI/UX</td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tech Stack</strong></td>
+    <td>React, TailwindCSS, Node.js, Python, Supabase</td>
+  </tr>
+  <tr>
+    <td><strong>🚀 Projects</strong></td>
+    <td><a href="https://essentia-dev.netlify.app" target="_blank">essentia.dev</a> | <a href="#">Portfolio (Coming Soon)</a></td>
+  </tr>
+  <tr>
+    <td><strong>📫 Contact</strong></td>
+    <td>Email: ratan.utsav1@gmail.com</td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Currently Learning</strong></td>
+    <td>TypeScript, Next.js, AI APIs</td>
+  </tr>
+  <tr>
+    <td><strong>📈 Fun Fact</strong></td>
+    <td>Nothing funny 😴</td>
+  </tr>
+</table>
+
 
 ---
-- 🎓 I'm currently pursuing **B.Tech in Computer Science**
-- 👩‍💻 I love building creative, user-friendly web projects
-- 🌱 Currently learning **React.js** and diving deeper into **DSA**
-- 📚 I enjoy working on open source and personal side projects
-- ✨ Fun fact: I love aesthetic UI and clean code!
+
+<div align="center">
+
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+<!-- CARD 1 -->
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" width="24"/>  
+  <b>🎓 I'm currently pursuing <span style="color:#007acc;">B.Tech in Computer Science</span></b>
+</div>
+
+<br/>
+
+<!-- CARD 2 -->
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/laptop.png" width="24"/>  
+  <b>👩‍💻 I love building creative, user-friendly web projects</b>
+</div>
+
+<br/>
+
+<!-- CARD 3 -->
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/source-code.png" width="24"/>  
+  <b>🌱 Currently learning <span style="color:#61dafb;">React.js</span> and diving deeper into <span style="color:#f06529;">DSA</span></b>
+</div>
+
+<br/>
+
+<!-- CARD 4 -->
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/>  
+  <b>📚 I enjoy working on open source and personal side projects</b>
+</div>
+
+<br/>
+
+<!-- CARD 5 -->
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/paint-palette.png" width="24"/>  
+  <b>✨ Fun fact: I love aesthetic UI and clean code!</b>
+</div>
+
+</div>
+
 
 ---
 
