@@ -1,142 +1,89 @@
-<p align="center">
-</p>
-<hr>
-<h1 align="center">I'm <a href="https://github.com/struveryy">Utsav Ratan<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5ab1025-a688-4615-a08a-05b5d55e68c9" 
-       alt="Utsav Ratan" 
-       width="200" height="200"
-       style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 20px #00f0ff;">
-</p>
-<Br>
-<h1>About Me ❤</h1>
-
-<table>
-  <tr>
-    <td><strong>🧑🏻‍💻 Name</strong></td>
-    <td>Utsav Ratan</td>
-  </tr>
-  <tr>
-    <td><strong>🌍 Location</strong></td>
-    <td>New Delhi , India</td>
-  </tr>
-  <tr>
-    <td><strong>🎯 Interests</strong></td>
-    <td>Web Dev, Automation, Startups, Gaming, UI/UX</td>
-  </tr>
-  <tr>
-    <td><strong>🛠️ Tech Stack</strong></td>
-    <td>React, TailwindCSS, Node.js, Python, Supabase</td>
-  </tr>
-  <tr>
-    <td><strong>🚀 Projects</strong></td>
-    <td><a href="https://essentia-dev.netlify.app" target="_blank">essentia.dev</a> | <a href="#">Portfolio (Coming Soon)</a></td>
-  </tr>
-  <tr>
-    <td><strong>📫 Contact</strong></td>
-    <td>Email: ratan.utsav1@gmail.com</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Currently Learning</strong></td>
-    <td>TypeScript, Next.js, AI APIs</td>
-  </tr>
-  <tr>
-    <td><strong>📈 Fun Fact</strong></td>
-    <td>Nothing funny 😴</td>
-  </tr>
-</table>
-
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Utsav+Ratan!;B.Tech+CSE+Student;Full+Stack+Developer+%7C+AI%2FML+Explorer;Esports+%26+Hackathon+Builder;Code+%2B+Creativity+%3D+Innovation+✨" alt="Typing Animation" />
+</h1>
 
 ---
 
-<div align="center">
-
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-<!-- CARD 1 -->
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" width="24"/>  
-  <b>🎓 I'm currently pursuing <span style="color:#007acc;">B.Tech in Computer Science</span></b>
-</div>
-
-<br/>
-
-<!-- CARD 2 -->
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/laptop.png" width="24"/>  
-  <b>👩‍💻 I love building creative, user-friendly web projects</b>
-</div>
-
-<br/>
-
-<!-- CARD 3 -->
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/source-code.png" width="24"/>  
-  <b>🌱 Currently learning <span style="color:#61dafb;">React.js</span> and diving deeper into <span style="color:#f06529;">DSA</span></b>
-</div>
-
-<br/>
-
-<!-- CARD 4 -->
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/>  
-  <b>📚 I enjoy working on open source and personal side projects</b>
-</div>
-
-<br/>
-
-<!-- CARD 5 -->
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/paint-palette.png" width="24"/>  
-  <b>✨ Fun fact: I love aesthetic UI and clean code!</b>
-</div>
-
-</div>
-
+## 🚀 About Me  
+🔹 **B.Tech CSE student** passionate about blending **technology + creativity**.  
+🔹 Exploring the intersection of **AI/ML, Full Stack Development, Automation, and Esports Tech**.  
+🔹 I love building platforms that bring **real-world impact** through modern **UI/UX + automation**.  
+🔹 Strong believer in **Code + Creativity = Innovation ✨**  
 
 ---
 
-### 💻 Tech Stack
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+## 🌟 Highlighted Projects  
 
+| 🚀 Project | ⚡ Description | 🛠 Tech |
+|------------|---------------|---------|
+| 📚 [**EduTrack**](https://github.com/misterutsav/edutrack) | Smart School Management System with automation | `React` · `Node.js` · `MongoDB` |
+| 🌐 [**Essentia Dev Website**](https://essentiadev.vercel.app) | Sleek animated corporate site | `Next.js` · `TailwindCSS` |
+| 🤖 [**Essentia Bot**](https://github.com/misterutsav/essentia-bot) | Multipurpose productivity Discord bot | `Python` · `Discord API` |
+| 🏕 [**HackSpace**](https://github.com/misterutsav/hackspace) | Workspace platform for hackathon teams | `MERN Stack` |
+| 🎮 [**Thrylos**](https://github.com/misterutsav/thrylos-esports) | Esports Tournament Platform | `React` · `Firebase` |
 
 ---
 
-### 🌟 GitHub Stats
-
+## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsavratan&show_icons=true&theme=radical" alt="Utsav Ratan's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsavratan&theme=radical" alt="Utsav Ratan's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavratan&layout=compact&theme=radical" alt="Utsav Ratan's Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,java,mysql,git,github,vscode,figma,linux&perline=7" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+## 🛤 Journey So Far  
+- 🎓 **2022:** Started B.Tech in CSE, diving into core programming  
+- ⚡ **2023:** Built first full-stack project · Explored AI/ML basics  
+- 🚀 **2024:** Developed **EduTrack, Essentia Bot, HackSpace**  
+- 🎮 **2025:** Building **Thrylos Esports Platform** + exploring **Next.js + Automation**  
+
 <p align="center">
-  <a href="mailto:ratam.utsav1@gmailcom"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/misterutsav/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/misterutsav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/utsavratan"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github"></a>
-  
+  <img src="https://img.shields.io/badge/Future-Always%20Learning%20✨-8A2BE2?style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center">✨✨ Thanks for visiting my profile! ✨✨</p>
+## 📊 GitHub Dynamics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=misterutsav&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterutsav&layout=compact&theme=radical" height="165" />
+</p>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=misterutsav&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=misterutsav&bg_color=0d1117&color=8A2BE2&line=1E90FF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=misterutsav&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎉 Fun Zone  
+✨ Learning **AI/ML + Next.js**  
+🎮 Building **Esports & Gaming platforms**  
+🎨 Obsessed with **Dark Modern UI/UX**  
+⚡ Love **Hackathons & Automation projects**  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtxc2RoM3RuOTJubDZsbHZxNG9vdml6aGpmMGwxbndlaGd0amEyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" />
+</p>
+
+---
+
+## 🌍 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/utsav-ratan"><img src="https://img.shields.io/badge/LinkedIn-Utsav%20Ratan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/misterutsav"><img src="https://img.shields.io/badge/GitHub-misterutsav-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://misterutsav.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>  
+
+---
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=120&section=footer" />
+</p>
