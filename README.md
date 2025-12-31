@@ -17,11 +17,11 @@
 
 | 🚀 Project | ⚡ Description | 🛠 Tech |
 |------------|---------------|---------|
-| 📚 [**EduTrack**](https://github.com/misterutsav/edutrack) | Smart School Management System with automation | `React` · `Node.js` · `MongoDB` |
-| 🌐 [**Essentia Dev Website**](https://essentiadev.vercel.app) | Sleek animated corporate site | `Next.js` · `TailwindCSS` |
-| 🤖 [**Essentia Bot**](https://github.com/misterutsav/essentia-bot) | Multipurpose productivity Discord bot | `Python` · `Discord API` |
-| 🏕 [**HackSpace**](https://github.com/misterutsav/hackspace) | Workspace platform for hackathon teams | `MERN Stack` |
-| 🎮 [**Thrylos**](https://github.com/misterutsav/thrylos-esports) | Esports Tournament Platform | `React` · `Firebase` |
+| 📚 [**EduTrack**](https://misterutsav.netlify.app) | Smart School Management System with automation | `React` · `Node.js` · `MongoDB` |
+| 🌐 [**Essentia Dev Website**](https://essentiasoftserv.netlify.app) | Sleek animated corporate site | `Next.js` · `TailwindCSS` |
+| 🤖 [**Essentia Bot**](https://softservessentia.netlify.app) | Multipurpose productivity Discord bot | `Python` · `Discord API` |
+| 🏕 [**HackSpace**](https://hachespace.netlify.app) | Workspace platform for hackathon teams | `MERN Stack` |
+| 🎮 [**Thrylos**](https://www.thrylos.in) | Esports Tournament Platform | `React` · `Firebase` |
 
 ---
 
