@@ -49,7 +49,7 @@ const utsavRatan: Developer = {
 
   name        : "Utsav Ratan",
   age         : 19,
-  location    : "New Delhi / Gurugram, India",
+  location    : "New Delhi, India",
 
   roles: [
     "Founder & CEO — Thrylos India",
@@ -58,7 +58,6 @@ const utsavRatan: Developer = {
   ],
 
   university  : "K.R. Mangalam University, Gurugram",
-  rollNumber  : "2401010046",
 
   techStack: {
     frontend  : ["React 18", "TypeScript", "Next.js",
