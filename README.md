@@ -6,7 +6,14 @@
 <div align="center">
 
 <!-- ▓▓▓ ANIMATED HEADER — CAPSULE RENDER ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0D0A2E,60:1A0533,100:0A1628&height=280&section=header&text=UTSAV%20RATAN&fontSize=90&fontColor=F4A100&fontAlignY=52&animation=twinkling&stroke=F4A100&strokeWidth=3&desc=Founder%20%26%20CEO%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Esports%20Architect&descSize=18&descAlignY=70&descColor=C4B5FD" width="100%" />
+<p align="center">
+  <img src="./banner.svg" width="100%" />
+</p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&pause=1000&color=4F46E5&center=true&vCenter=true&width=1200&lines=Founder+%7C+Software+Engineer+%7C+Entrepreneur;Building+Technology+That+Creates+Trust;THRYLOS+AUTH+%7C+THRYLOS+CRED+%7C+THRYLOS+INDIA" />
+</p>
 
 </div>
 
