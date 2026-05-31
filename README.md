@@ -103,6 +103,44 @@ const utsavRatan: Developer = {
 
 ---
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=utsavratan&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&sideNums=B347FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsavratan&custom_title=Utsav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+
+
+### 🎃 Holopin Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-B347FF?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
+  <br><br>
+  <a href="https://holopin.io/@smirkdev" target="_blank">
+    <img src="https://holopin.me/smirkdev" alt="Holopin Badges" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-B347FF?style=flat&logo=github&logoColor=white" alt="Open Source Contributor"/>
+  <img src="https://img.shields.io/badge/Community%20Builder-B347FF?style=flat&logo=hacktoberfest&logoColor=white" alt="Community Builder"/>
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img
+    src="https://github-trophies.vercel.app/?username=utsavratan&theme=monokai&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</div>
+  </table>
+</div>
+  <br>
+  
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" /> &nbsp;The Thrylos Ecosystem
 
 > **Thrylos India** is an MSME/UDYAM-registered technology company building a full suite of digital infrastructure products across esports, identity, cloud assessments, credentials, and events.
@@ -170,7 +208,7 @@ The parent company delivering end-to-end software development, digital transform
 <td width="8%" align="center">🔐</td>
 <td width="92%">
 
-### THRYLOS AUTH &nbsp; ![In Dev](https://img.shields.io/badge/IN_DEVELOPMENT-F4A100?style=flat-square)
+### THRYLOS AUTH &nbsp; ![In Dev](https://img.shields.io/badge/LIVE-00C853?style=flat-square)
 
 **Authentication, Verification & API Infrastructure**
 
@@ -198,7 +236,7 @@ A dedicated identity and verification infrastructure provider helping organizati
 <td width="8%" align="center">☁️</td>
 <td width="92%">
 
-### THRYLOS CLOUD &nbsp; ![In Dev](https://img.shields.io/badge/IN_DEVELOPMENT-F4A100?style=flat-square)
+### THRYLOS CLOUD &nbsp; ![In Dev](https://img.shields.io/badge/LIVE-00C853?style=flat-square)
 
 **Secure Online Examination & Assessment Platform**
 
@@ -226,7 +264,7 @@ An advanced proctored examination and assessment platform with AI-powered monito
 <td width="8%" align="center">🏅</td>
 <td width="92%">
 
-### THRYLOS CRED &nbsp; ![In Dev](https://img.shields.io/badge/IN_DEVELOPMENT-F4A100?style=flat-square)
+### THRYLOS CRED &nbsp; ![In Dev](https://img.shields.io/badge/LIVE-00C853?style=flat-square)
 
 **India's Verified Achievement Network**
 
@@ -256,7 +294,7 @@ A digital credentialing infrastructure enabling organizations, institutions and 
 <td width="8%" align="center">🚀</td>
 <td width="92%">
 
-### AARAMBHATHON &nbsp; ![In Dev](https://img.shields.io/badge/IN_DEVELOPMENT-F4A100?style=flat-square)
+### AARAMBHATHON &nbsp; ![In Dev](https://img.shields.io/badge/LIVE-00C853?style=flat-square)
 
 **End-to-End Hackathon & Event Management Platform**
 
@@ -367,33 +405,14 @@ A complete hackathon and event management ecosystem designed for educational ins
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" /> &nbsp;GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=misterutsav&show_icons=true&theme=tokyonight&border_color=F4A100&title_color=F4A100&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0D1A&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="185" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterutsav&layout=compact&theme=tokyonight&border_color=F4A100&title_color=F4A100&text_color=C4B5FD&bg_color=0D0D1A&hide_border=false&langs_count=10" height="185" />
-
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=misterutsav&theme=tokyonight&border=F4A100&ring=F4A100&fire=A78BFA&currStreakLabel=F4A100&sideLabels=C4B5FD&sideNums=FFFFFF&background=0D0D1A&dates=A78BFA" height="185" />
-
-</div>
 
 <br/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=misterutsav&bg_color=0D0D1A&color=F4A100&line=A78BFA&point=FFFFFF&area=true&area_color=1A0533&hide_border=false&border_color=F4A100&title_color=F4A100&custom_title=Utsav%27s+Contribution+Graph" width="100%" />
-</div>
-
----
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=misterutsav&theme=radical&no-frame=false&row=2&column=4&margin-w=12&margin-h=12" />
 </div>
 
 ---
@@ -508,8 +527,6 @@ A complete hackathon and event management ecosystem designed for educational ins
 ## ⚡ &nbsp;Fun Zone
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=F4A100&center=true&vCenter=true&width=800&lines=Esports+and+competitive+gaming+infra+is+my+obsession;Dark+navy+%2B+orange%2Fgold+UI+is+not+a+preference+—+it%27s+a+religion;I+don%27t+sleep+on+weekends+—+I+ship+features;Running+a+registered+company+at+19+in+first+year+of+college;AI+integration+is+the+next+moat+for+every+platform;I+only+build+things+that+real+people+actually+use;Code+%2B+Creativity+%3D+Innovation" />
 
 <br/><br/>
 
