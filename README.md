@@ -6,14 +6,10 @@
 <div align="center">
 
 <!-- ▓▓▓ ANIMATED HEADER — CAPSULE RENDER ▓▓▓ -->
-<p align="center">
-  <img src="./banner.svg" width="100%" />
-</p>
+
+  # UTSAV RATAN
 
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&pause=1000&color=4F46E5&center=true&vCenter=true&width=1200&lines=Founder+%7C+Software+Engineer+%7C+Entrepreneur;Building+Technology+That+Creates+Trust;THRYLOS+AUTH+%7C+THRYLOS+CRED+%7C+THRYLOS+INDIA" />
-</p>
 
 </div>
 
