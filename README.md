@@ -75,7 +75,6 @@ const utsavRatan: Developer = {
     "Thrylos — Esports Ecosystem",
     "Thrylos Cloud — AI Exam Platform",
     "Thrylos Auth — Identity Infrastructure",
-    "Thrylos Cred — Achievement Network",
     "Aarambhathon — Hackathon Platform",
   ],
 
@@ -262,36 +261,6 @@ An advanced proctored examination and assessment platform with AI-powered monito
 <br/>
 
 <!-- ══════════════════════ PRODUCT 5 ══════════════════════ -->
-<table>
-<tr>
-<td width="8%" align="center">🏅</td>
-<td width="92%">
-
-### THRYLOS CRED &nbsp; ![In Dev](https://img.shields.io/badge/LIVE-00C853?style=flat-square)
-
-**India's Verified Achievement Network**
-
-A digital credentialing infrastructure enabling organizations, institutions and individuals to issue, verify and showcase trusted achievements with QR-authenticated certificates and instant verification — building a future where every achievement can be trusted instantly.
-
-**Capabilities:**
-
-![Certificate Verification](https://img.shields.io/badge/Certificate_Verification-F4A100?style=flat-square)
-![Internship Verification](https://img.shields.io/badge/Internship_Verification-A78BFA?style=flat-square)
-![Achievement Credentials](https://img.shields.io/badge/Achievement_Credentials-00C853?style=flat-square)
-![QR Authentication](https://img.shields.io/badge/QR_Authentication-61DAFB?style=flat-square)
-![Digital Credibility](https://img.shields.io/badge/Digital_Credibility_Infrastructure-EA4335?style=flat-square)
-
-> *"To create a future where every achievement can be trusted instantly."*
-
-**Stack:** `React` `Node.js` `QR Code APIs` `Supabase` `PDF Generation` `TypeScript`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════ PRODUCT 6 ══════════════════════ -->
 <table>
 <tr>
 <td width="8%" align="center">🚀</td>
