@@ -25,11 +25,11 @@
 <!-- ▓▓▓ BADGES ROW 1 — SOCIAL ▓▓▓ -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3%2C300%2B_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/misterutsav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4%2C100%2B_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/misterutsav)
 [![GitHub](https://img.shields.io/badge/GitHub-utsavratan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utsavratan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-misterutsav.in-F4A100?style=for-the-badge&logo=vercel&logoColor=black)](https://misterutsav.in)
-[![Thrylos](https://img.shields.io/badge/Thrylos_India-thrylos.in-A78BFA?style=for-the-badge&logo=rocket&logoColor=white)](https://thrylos.in)
-[![Email](https://img.shields.io/badge/Email-founder%40thrylos.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@thrylos.in)
+[![Thrylos](https://img.shields.io/badge/Thrylos_India-thrylos.in-A78BFA?style=for-the-badge&logo=rocket&logoColor=white)](https://thrylosindia.in)
+[![Email](https://img.shields.io/badge/Email-founder%40thrylos.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@thrylosindia.in)
 [![Views](https://komarev.com/ghpvc/?username=utsavratan&label=Profile+Views&color=F4A100&style=for-the-badge)](https://github.com/utsavratan)
 
 </div>
