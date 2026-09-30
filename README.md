@@ -436,7 +436,7 @@ A complete hackathon and event management ecosystem designed for educational ins
 ║  🔐   Started Thrylos Auth — identity & verification APIs            ║
 ║  🏅   Began Thrylos Cred — India's achievement network               ║
 ║  ⚔️   Built War of Words cinematic debate platform                   ║
-║  📊   3,300+ LinkedIn followers — professional brand growing         ║
+║  📊   4,100+ LinkedIn followers — professional brand growing         ║
 ║                                                                      ║
 ║  2026  ─────────────────────────────────────────────────────────    ║
 ║  🎤   Organized War of Words Debate Competition at KRMU (Apr 2026)   ║
@@ -483,7 +483,7 @@ A complete hackathon and event management ecosystem designed for educational ins
 | 🚀 **Production Deployment** | 36-module admin portal live at admin.thrylos.in serving real users | 2025 |
 | 🏆 **IDEAS 4.0 Competitor** | Presented Thrylos Esports Ecosystem at KRMU innovation competition | 2024 |
 | 🎤 **War of Words Organizer** | Led & built the platform for debate competition at KRMU | Apr 2026 |
-| 📊 **3,300+ LinkedIn** | Built a professional network of 3,300+ while in first year of B.Tech | 2025-26 |
+| 📊 **4,100+ LinkedIn** | Built a professional network of 4,000+ while in third year of B.Tech | 2025-26 |
 | ⚡ **Intern @ Essentia.dev** | Selected as Full Stack Developer Intern at a software company | 2023 |
 | 🎓 **B.Tech CSE** | Running a registered company while completing B.Tech simultaneously | 2024+ |
 | 📦 **6 Product Verticals** | Building 6 products under Thrylos India simultaneously | 2024-26 |
